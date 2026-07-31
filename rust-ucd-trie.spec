@@ -5,8 +5,8 @@
 %global crate ucd-trie
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        2%{?dist}
+Version:        0.1.7
+Release:        1%{?dist}
 Summary:        Trie for storing Unicode codepoint sets and maps
 
 # Upstream license specification: MIT/Apache-2.0
